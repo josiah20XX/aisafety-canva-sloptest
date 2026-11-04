@@ -1,5 +1,7 @@
 # Canva Video Production (Human/ AI Collaboration)
 
+by Josiah Rhys Jacobson
+
 ## AGI - Warning Video
 
 ![Artificial General Intelligence - Warning Thumbnail/ Preview](Thumbnails/AGI.gif)
