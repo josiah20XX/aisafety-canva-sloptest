@@ -1,5 +1,7 @@
 # Canva Video Production (Human/ AI Collaboration)
 
+Part of a mission to explore and understand AI-generated, human-controlled creative work. Ultimately contributing to the promotion and advancement of AI safety.
+
 by Josiah Rhys Jacobson
 
 ## AGI - Warning Video
